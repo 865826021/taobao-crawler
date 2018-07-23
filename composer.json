@@ -1,0 +1,14 @@
+{
+    "name": "wi1dcard/taobao-crawler",
+    "description": "淘宝商品采集",
+    "type": "library",
+    "require": {
+        "php": ">=5.4"
+    },
+    "authors": [
+        {
+            "name": "wi1dcard",
+            "email": "wi1dcard@qq.com"
+        }
+    ]
+}
