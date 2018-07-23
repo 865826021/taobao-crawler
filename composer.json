@@ -1,6 +1,6 @@
 {
     "name": "wi1dcard/taobao-crawler",
-    "description": "淘宝商品采集",
+    "description": "淘宝商品采集器",
     "type": "library",
     "require": {
         "php": ">=5.4"
