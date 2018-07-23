@@ -10,5 +10,10 @@
             "name": "wi1dcard",
             "email": "wi1dcard@qq.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "TaobaoCrawler\\": "src/"
+        }
+    }
 }
